@@ -8,7 +8,7 @@ Then just look for the button that says "Download ZIP". Look to your right -->
 This project is a fork of bitcoinpaperwallet.com and bitaddress.org, 
 the original trustworthy JavaScript powered offline bitcoin address generator. 
 
-As of March 1, 2014, this generator also includes support and designs for making
+As of March 18, 2014, this generator also includes support and designs for making
 CasinoCoin, Digitalcoin and Vertcoin wallets.
 
 For additional wallet design requests, contact: transcoder264@gmail.com
